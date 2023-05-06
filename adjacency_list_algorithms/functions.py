@@ -28,3 +28,10 @@ def get_vertices_do_grau(grafo, grau):
                         pass
 
         return True
+    
+def where(grafo,vertice):
+    return grafo[vertice]
+
+def shortest_path(grafo, vertice):
+    
+
